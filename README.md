@@ -18,10 +18,10 @@ $ python sshbotnet.py sshinfo.txt
 [+] Connected to 10.10.11.119!
 
 cmd> whoami
-[*]Output for lemmy@127.0.0.1:
+[*] Output for lemmy@127.0.0.1:
 lemmy
-[*]Output for drew@10.10.14.6:
+[*] Output for drew@10.10.14.6:
 drew
-[*]Output for developer@10.10.11.119:
+[*] Output for developer@10.10.11.119:
 developer
 ```

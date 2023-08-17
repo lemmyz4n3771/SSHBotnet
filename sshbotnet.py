@@ -12,7 +12,7 @@ def sendBotnetCmd(cmd):
         if out == -1:
             return
         out = out.decode()
-        print(f"[*]Output for {bot.username}@{bot.ip}:")
+        print(f"[*] Output for {bot.username}@{bot.ip}:")
         print(f'[+] {out}')
         print('-'* 100)
         
